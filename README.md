@@ -68,6 +68,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [PersonX](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)   | 2019      | 1,266       | 6        | 273,456       |
 | [COCAS](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_COCAS_A_Large-Scale_Clothes_Changing_Person_Dataset_for_Re-Identification_CVPR_2020_paper.pdf)   | 2020      | 5,266       | -        | 62,382       |
 
+[国内数据集资源](https://blog.csdn.net/su1993312312/article/details/111319445)  
+
 ## Papers
 
 
